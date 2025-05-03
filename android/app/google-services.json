@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1086720261550",
+    "firebase_url": "https://namesuggestor-b3eaa-default-rtdb.firebaseio.com",
+    "project_id": "namesuggestor-b3eaa",
+    "storage_bucket": "namesuggestor-b3eaa.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086720261550:android:f03949bda54b8a5e6f5c3f",
+        "android_client_info": {
+          "package_name": "com.muslimnamesuggestor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDGxMYbH3R3SAjeFO3GpJjBU5JUJgpGy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
